@@ -53,7 +53,31 @@ Incorporating these entities and relationships, our data model comprehensively c
 
 ![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/e8624379-cadd-47f6-acf5-df3c53992e51)
 
+1. List the coach’s name and the names of the players they coach. Order by name (descending).
 
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/edb78d24-e761-4590-bdaf-ae97dd7ef563)
+
+The SQL query to list the coach's name and the names of the players they coach is useful for various reasons, especially in the context of sports management or team organization. It provides valuable insights into the coaching relationships within a sports team or organization. Listing by descending employee name allows a manager to quickly view coaches in alphabetical order and the players under them.
+
+2. List the maximum order amount and the customer who ordered it
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/cf5325d5-0bb7-40e4-b5c3-21efca1e8ee0)
+
+This SQL query finds the customer who made the largest purchase (maximum order amount) and provides their name. A manager can use this information to identify their highest-spending customer, tailor marketing efforts, and assess the impact of top customers on their business.
+
+3. List out the number of injuries by type for Atlanta United. Order by number of injuries.
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/81494a9d-e070-49c2-9aa7-c58576b75f1d)
+
+This SQL query counts the number of injuries by injury type for Atlanta United. The query provides a breakdown of injury counts by type. It helps a manager analyze injury trends and understand which types of injuries are affecting Atlanta United. This information can be used to develop injury prevention strategies and allocate resources effectively to support Atlanta United with higher injury occurrences.
+
+4. Find the total number of matches played by each team
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/cc3c217b-0952-4050-8d74-3a721c647be3)
+
+This SQL query counts the number of matches played by each team and associates the count with the respective team's name. It assists a manager in assessing workload by revealing the number of matches played by each team. This information is valuable for managing team schedules and evaluating team performance over time.
+
+5. 
 
 
 
