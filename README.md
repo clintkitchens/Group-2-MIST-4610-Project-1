@@ -4,7 +4,7 @@
 # Team Members 
 Enzo Vasallo [@enzovasallo](https://www.github.com/enzovasallo)  <br>
 Parker Kane   <br>
-Kaylie Chin   <br>
+Kaylie Chin [@kayliechin](https://www.github.com/kayliechin)  <br>
 Clint Kitchens  <br> 
 Ore Pratt [@nathanp2020](https://github.com/nathanp2020) <br> 
 Jazlyn Piedra  <br> 
