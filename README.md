@@ -77,7 +77,48 @@ This SQL query counts the number of injuries by injury type for Atlanta United. 
 
 This SQL query counts the number of matches played by each team and associates the count with the respective team's name. It assists a manager in assessing workload by revealing the number of matches played by each team. This information is valuable for managing team schedules and evaluating team performance over time.
 
-5. 
+5. List the number of scouts for each team as a percentage of the total number of employees.
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/2639015e-3c4b-4b3f-9877-d420651e906e)
+
+This SQL code calculates the percentage of scouts out of the total number of employees. Managers can use this query to gain insights into the composition of their teams, particularly in sports organizations. The scout percentage offers a key metric for assessing the focus on talent scouting within each team. Managers can use this information to ensure that the scouting department is adequately staffed and to compare the scouting efforts across different teams for effective talent acquisition and development.
+
+6. List the teams who are in 1st or 2nd Tier and have at least 95 sponsors. Order by team name alphabetically.
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/20da7181-f7e5-454b-9b11-3c9989d8bab9)
+
+This SQL query retrieves a list of teams receiving support from at least 95 sponsors. It provides a clear view of which teams have attracted substantial sponsor support.This information is valuable for recognizing and nurturing key sponsor relationships. Managers can use these insights to develop targeted strategies for engaging and retaining high-value sponsors, contributing to the financial health and success of their teams or organization.
+
+7. List the sponsors who have made donations over $1000 and the teams they are sponsors for, sort by descending amount.
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/3ec4d6e0-ef06-497b-9dd1-44ec4b6a0647)
+
+This SQL query retrieves a list of sponsors, their associated teams, and the sponsorship payment amounts. It provides a clear view of sponsors contributing significant amounts (exceeding $1000) to specific teams. This information is valuable for recognizing and nurturing key sponsor relationships, evaluating the financial impact of sponsorships, and determining which teams have attracted substantial sponsor support. Managers can use these insights to develop targeted strategies for engaging and retaining high-value sponsors, contributing to the financial health and success of their teams or organization.
+
+
+8. List the top 3 most popular merchandise items based on the number of purchases
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/4d85711f-16e1-4e18-a455-c7e44edbd788)
+
+This SQL query identifies the top 3 most popular merchandise items by counting the number of purchases for each item and sorting them in descending order. A manager can use this data to optimize inventory, sales strategies, and marketing efforts, ensuring they meet customer demand and enhance overall sales and customer satisfaction.
+
+9. List the Customers that have bought more than 500 dollars worth of merchandise  in addition to having ordered 3 or more times. Order by customer name alphabetically.
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/bf220e7d-3170-4d9d-bec8-fc40343521e4)
+
+This SQL query identifies the customers that are big fans and have bought at least 500 dollars worth of merch and 3 or more merch items. A manager can use this data to send these customers a thank you, or send them a discount/coupon for being loyal customers.
+
+
+10. List the names of players who have never been injured, along with their team names and positions. Only include players that play either “Striker” or “Winger”.
+
+![image](https://github.com/enzovasallo/Group-2-MIST-4610-Project-1/assets/148125982/9fc4737b-8e0c-46d4-aed6-9fca630f1074)
+
+This SQL query compiles a list of players who have never experienced injuries, including their player names, team names, and player positions. This query only includes strikers or wingers, which are mainly attacking positions. Managers can use this information to assess player reliability, optimize resource allocation, and make strategic decisions, ultimately contributing to team performance and player well-being by ensuring a more stable and consistent lineup in terms of team attack.
+
+
+
+
+
 
 
 
